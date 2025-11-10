@@ -1,6 +1,4 @@
-import React from 'react'
-
-const Footer = ({company}) => {
+const Footer = () => {
   return (
     <div>
         <p>Thanks for visiting this page! &#10084;&#65039;</p>
